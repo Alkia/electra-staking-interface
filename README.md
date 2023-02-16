@@ -9,6 +9,9 @@ It imports another Vue class
 it SpValidators.vue file in components folder
 src/components/SpValidators/SpValidators.vue
 
+![image](https://user-images.githubusercontent.com/17525857/219372424-6b14d4fc-7ec3-4550-b5f1-6dc803307a55.png)
+
+
 ![image](https://user-images.githubusercontent.com/17525857/219372100-6fb10235-bd2a-4da7-ab99-82ba50d47703.png)
 
  
