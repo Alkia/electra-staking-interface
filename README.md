@@ -8,6 +8,9 @@ Key files:
 It imports another Vue class
 it SpValidators.vue file in components folder
 src/components/SpValidators/SpValidators.vue
+
+![image](https://user-images.githubusercontent.com/17525857/219372100-6fb10235-bd2a-4da7-ab99-82ba50d47703.png)
+
  
 ## App UI Template
 
